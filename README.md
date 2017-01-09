@@ -22,6 +22,8 @@ You can now change default flag inside script and it will show up in help.
 * Twitter: [@KevinRudissaar](https://twitter.com/KevinRudissaar)
 
 ## Donate
+If you found this script really useful or if you would just like to donate to developer, you can use following donation methods:
+
 [![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EGU5RTCF69G82)
 
 [![1HZNkcukFHYF5FKPTvsTnNQNiGQTHZcbR7](http://img.murda.eu/donate-btc.png)](http://ln.murda.eu/BITCOIN)
