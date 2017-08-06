@@ -1,5 +1,5 @@
-# UserKick.sh
-Make link or place KickUser.sh to folder included in your user's PATH variable and name it to "kick", after that you are ready to use this script, but it's really optional. If you are non-root user, you need to have 'sudo' installed on system and you also need to be in sudoers group to use sudo itself.
+# kick-user.sh
+Make link or place kick-user.sh to folder included in your user's PATH variable and name it to "kick", after that you are ready to use this script, but it's really optional. If you are non-root user, you need to have 'sudo' installed on system and you also need to be in sudoers group to use sudo itself.
 
     Usage:    kick [username] [-r|-s|-l]
     Example:  kick john
@@ -25,7 +25,5 @@ You can now change default flag inside script and it will show up in help.
 If you found this script really useful or if you would just like to donate to developer, you can use following donation methods:
 
 [![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EGU5RTCF69G82)
-
-[![1HZNkcukFHYF5FKPTvsTnNQNiGQTHZcbR7](http://img.murda.eu/donate-btc.png)](http://ln.murda.eu/BITCOIN)
 
 BTC: 1HZNkcukFHYF5FKPTvsTnNQNiGQTHZcbR7
