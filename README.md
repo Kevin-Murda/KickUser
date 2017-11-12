@@ -1,5 +1,5 @@
 # kick-user.sh
-Make link or place kick-user.sh to folder included in your user's PATH variable and name it to "kick", after that you are ready to use this script, but it's really optional. If you are non-root user, you need to have 'sudo' installed on system and you also need to be in sudoers group to use sudo itself.
+Make link or place `kick-user.sh` to folder included in your user's PATH variable and name it to `kick`, after that you are ready to use this script, but it's really optional. If you are non-root user, you need to have `sudo` installed on system and you also need to be in sudoers group to use sudo itself.
 
     Usage:    kick [username] [-r|-s|-l]
     Example:  kick john
